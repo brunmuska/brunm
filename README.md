@@ -1,2 +1,2 @@
 # brunm
-Trial version of the burn app
+Trial version of the brun app
